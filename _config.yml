@@ -1,0 +1,13 @@
+layout_spectrum: 0
+color:
+  saturation: 0.5317051
+  brandStrength: 1
+  lightness: 0.2222222
+  brandColors:
+    - '#FFFFFF'
+    - '#1A1819'
+    - '#3B3A3B'
+    - '#888888'
+  rhythmicContrast: 0.265233
+typography_spectrum: 0.3297491
+name: Frank supplements
