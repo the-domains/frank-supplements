@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Frank supplements]]></title>
+        <description><![CDATA[Frank supplements]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 28 Feb 2016 04:03:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About us]]></title>
+            <description><![CDATA[<article><h1>About us</h1><p>Changing the way people see an industry is a long and lonely road... WALK WITH US</p></article>]]></description>
+            <link>http://www.franksupplements.com/why</link>
+            <guid isPermaLink="false">d5ea5cfa-7f04-48b6-9225-3557c05308a1</guid>
+            <pubDate>Sun, 28 Feb 2016 04:03:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
