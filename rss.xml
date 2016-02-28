@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Frank supplements]]></title>
         <description><![CDATA[Frank supplements]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/frank-supplements/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 04:03:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 28 Feb 2016 04:03:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/frank-supplements/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Products page]]></title>
+            <description><![CDATA[<article><h1>Products page</h1><p>Supplements are designed to enhance/complement your regular dietary intake. They are designed to help you achieve your athletic or lifestyle goals. They are not designed to substitute any component. The very definition of the word 'supplement' would contradict this.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75e3aca900df997ddf7598b36cba1386d24f0c93.jpg"></article>]]></description>
+            <link>https://thegrid.ai/frank-supplements/products-page/index.html</link>
+            <guid isPermaLink="false">81d47076-19c0-4bc4-a406-13bc86c8b742</guid>
+            <pubDate>Sun, 28 Feb 2016 04:03:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About us]]></title>
             <description><![CDATA[<article><h1>About us</h1><p>Changing the way people see an industry is a long and lonely road... WALK WITH US</p></article>]]></description>
